@@ -1,4 +1,4 @@
-# Numpy Neural Network (3N)
+# Numpy Neural Network (N3)
 
 Multilayer Perceptron construído apenas com funções Numpy e Built-in do Python.
 
